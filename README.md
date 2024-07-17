@@ -1,10 +1,14 @@
-To include the link to your live Tableau dashboard properly in the README file, you can use the Markdown link syntax to make it look neat and clickable. Here’s how you can do it:
-
-```markdown
 # Oni and Sons Sales Dashboard
 
 ## Overview
 This repository contains the `Oni and Sons Sales Dashboard` report which provides an in-depth analysis of the company's sales performance. The dashboard includes key metrics on quantity sold across regions, top sales representatives, revenue generation by product categories, customer distribution by payment options, gender distribution of customers, and more. The objective is to provide actionable insights to enhance sales strategies and operational efficiency.
+
+## Live Dashboard
+- View the live Tableau dashboard [here](https://public.tableau.com/app/profile/catherine.adodo/viz/OniandSonsSalesDashboard_17202971948430/Dashboard1).
+
+
+![Tableau Dashboard](https://github.com/user-attachments/assets/3c74ae08-c7f1-47ab-bf2b-70cd26057eee)
+
 
 ## Key Insights and Recommendations
 
@@ -81,41 +85,3 @@ This repository contains the `Oni and Sons Sales Dashboard` report which provide
 
 ## Conclusion
 The `Oni and Sons Sales Dashboard` provides essential insights into the company's sales performance, highlighting areas of strength and opportunities for improvement. By leveraging the data presented, the company can enhance its sales strategies, optimize resource allocation, and ultimately drive growth and efficiency.
-
-## Repository Structure
-- `data/`: Contains raw data files used for the analysis.
-- `reports/`: Includes detailed reports and visualizations generated from the dashboard.
-  - `Sales_Performance_Report.pdf`: Detailed analysis of sales performance.
-  - `Revenue_Generation_Report.pdf`: Insights on revenue generation by product categories.
-  - `Customer_Distribution_Report.pdf`: Breakdown of customer demographics and payment preferences.
-  - `Sales_Trends_Report.pdf`: Trends and patterns in sales data over time.
-- `README.md`: This file, providing an overview and insights from the dashboard.
-
-## How to Use
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Oni-and-Sons-Sales-Dashboard.git
-   ```
-2. **Navigate to the Directory:**
-   ```bash
-   cd Oni-and-Sons-Sales-Dashboard
-   ```
-3. **Explore the Data and Reports:**
-   - Review the data in the `data/` directory.
-   - Access detailed reports in the `reports/` directory.
-
-## Live Dashboard
-- View the live Tableau dashboard [here](https://public.tableau.com/app/profile/catherine.adodo/viz/OniandSonsSalesDashboard_17202971948430/Dashboard1).
-
-## Contributions
-Contributions are welcome! Please create a pull request or open an issue for any suggestions or improvements.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
----
-
-**Note:** This README provides a high-level summary of the customer analytics dashboard report. For detailed data and visualizations, please refer to the full report available in the repository.
-```
-
-This will create a clickable link in your README file that directs users to your live Tableau dashboard.
